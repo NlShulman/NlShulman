@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NlShulman
+- 👋 Hi, I’m Nicole Shulman
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning and improving my Python coding skills, 100 days of code, the complete python pro bootcamp
 - 💞️ I’m looking to collaborate on any python projects, uploading my code projects
