@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole Shulman
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning and improving my Python coding skills, 100 days of code, the complete python pro bootcamp
+- 🌱 I’m currently learning and improving my Python coding skills, 100 Days of Code - The Complete Python Pro Bootcamp
 - 💞️ I’m looking to collaborate on any python projects, uploading my code projects
 - 📫 How to reach me #LinkedIn https://www.linkedin.com/in/nicole-shulman-40069244
 
